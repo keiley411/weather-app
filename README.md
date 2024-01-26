@@ -1,8 +1,18 @@
-# React + Vite
+# weather-app
+## Author
+![alt text](https://github.com/keiley411/weather-app/blob/main/src/cloud.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Version
+26/01/2024
+## Description
+A weather  app to check the weather for your current location.You can also view the 5-day forecast and also see severe weather information.
+## Live Page 
+(https://github.com/keiley411/weather-app.git)
+## Installation / Setup instruction
+* Open Terminal {PNPM CREATE VITE@LATEST, PROJECT NAME(BAR),SELECT REACT, JAVASCRIPT, CD BAR, PNPM INSTALL, PNPM RUN DEV}
+* git clone ``` https://github.com/keiley411/weather-app.git
+* cd Bar
+* (https://github.com/keiley411/weather-app.git)
+* code . or atom . depending on the text editor you are using.
+## Technologies Used
+* [HTML5,JS,REACT]
